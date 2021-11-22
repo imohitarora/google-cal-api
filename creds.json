@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "mohitarora-vcard",
+    "private_key_id": "5d88bcd227724ce0e8bdcc21c5b594993a76b593",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnRKM1Yl5WjtIz\nwVBZ7UO6EO7K+++98xn58XhRMSv/dOZYI+7B43wZppBd4QtJkSd8TN6EOB8FZW/+\nbFHWn0kxCa4kX8CSD7xyeXsi3Y9sK23u3QdYFtQIZQmzVWqJQUVAjOPImfst18hC\n2bXM1mdOcw+jwL4ID57b3DhoBJLPZ4oQ11aVKTgdD/hGiULgfhTVOkF5EKbE0yP9\nvbklhkt8qen1/SddCFg/iPw23cPV6L3/qshJ0pwqjA+oHiphOi4E6ExxsflnM2Ru\nsL7K1awa1c7g1JH8dtI0BjBvKweq8ZM/uPopyFYrx5M9Y85OuMoSJ4n97cJeYIZ2\nJeTS+QyPAgMBAAECgf9JLb45nM+pDtLn0atVrHf073OJWq+IatLyhrIc02ZsXLhp\n106dhOjGUBjY+Zv2k4qy1u6C6gqoUbitlrY3L3jV+2Y0g6+8NyY67urwVf5pVJbD\n6e9MmrAo/AtCahwx8Fxb4UfGe5dodv8mQBlJhIOtzqkI+0ooPK1DgxUqbNXN5slC\nCfGWVhNwwoq/hjHur2KPzDdxxtVl8xaBaaHBmZw3rFlmfz2mXpj8BAYdKHEUjNOF\ns+Zr/QaWrA1CCoXL7M31OyJ6lTz69dpx4e9/la6lwjLhHLHng8KZX2qj30OiU/Qb\n7oySf6jJE9bEgJ3HIgaEVyYcrAXdTk0H+U7wiAECgYEA2FjDYVbdX8T2fM57tb5i\nPALMe8mLiJXmGHnThdov+OmXIEfVmbR7v2RezIC8vVbM8nJ06mSR86YD4qRxZokg\ntT1NBYBGsQ8Ss5l9fN6L8xYjg16t/WLZCX1yxMUDrJ6jDSpf9aCHUbbT+U9c4i8i\nEsDpfNd/bOhUsnBZXVgKsM8CgYEAxe0Mo8/xL7YwYSov94SrHx1wkI+JDciQgVUO\ndTGqDmuRfhVc8eTeUTCevSEkU6qOS2Lbwi6mfg5dkb7kH6TKYjCrEL/HW6DREjE7\nh+jQKsX5gOhMH/21aHP8hxBZ3C09LjouXtAAfPNEdbZjwlcE4UKxGdSOBoVLc0CZ\nd62VWEECgYEAtiuH2R7bqRigtNbpNE/rR7zTkihTZd9SsKlkgwEGBAItTvEt2w8u\nZCqP6IM+ae/9Aul9qSCmBRN1khIFquEsuW+0uz0YSV730GMeV1bNYRLzNFs1BneF\naYhIa4e5YFDz2tIjmyBg0V2xf+xjudEWT9RAxu5uTbYUG2ye0wqfdeECgYAhDfq7\nbOHpxvKDd6k1HCn78022RtJrw+AmSU810UqGR/6vYN/54fAi/Qy1p1BKzMQg4Oy0\nnFff24RS799nTX0jMt+O14hyzAO+lwxLIV2Kly+ZELKN8TAXtq8o21k2hTOfgcX2\nvaQnOfVn90Ln1OKSwDGVj8L8Ycx8/f/jVdEIQQKBgQCTjW8BTLNQSu6dV86ZWSdk\nGlfPyzUMASUzv8qsAOPbLG228goiwGCggs3RmlogQS7CH6w3ltFqFYdv2YvUnrYy\n6IX5BpsAxiesIGfv9F69W9YTQqmnnhovsc4APuhl471GD2UrpbozXYyav4lgiVXd\nAfZ/KBjYuKI3oo7F/c+B2Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "calapi@mohitarora-vcard.iam.gserviceaccount.com",
+    "client_id": "109119903884633485784",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calapi%40mohitarora-vcard.iam.gserviceaccount.com"
+  }
+  
